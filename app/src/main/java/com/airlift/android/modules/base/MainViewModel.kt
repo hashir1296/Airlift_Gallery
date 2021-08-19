@@ -6,7 +6,7 @@ import com.airlift.android.network.AirliftRepository
 
 class MainViewModel
 constructor(
-    private val elasRepository: AirliftRepository,
+    private val airliftRepository: AirliftRepository,
 ) : ViewModel() {
 
 }

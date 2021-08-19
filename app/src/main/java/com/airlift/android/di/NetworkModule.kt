@@ -66,7 +66,7 @@ object NetworkModule {
 
     @Singleton
     @Provides
-    fun provideElasService(retrofit: Retrofit.Builder): AirliftApi {
+    fun provideAirliftService(retrofit: Retrofit.Builder): AirliftApi {
         return retrofit
             .build()
             .create(AirliftApi::class.java)

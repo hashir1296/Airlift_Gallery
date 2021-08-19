@@ -27,7 +27,7 @@ object RepositoryModule {
 
     @Singleton
     @Provides
-    fun provideElasRepository(
+    fun provideAirliftRepository(
         airliftApi: AirliftApi,
         cacheMapper: CacheMapper,
         curatedPhotoMapper: CuratedPhotoMapper,
