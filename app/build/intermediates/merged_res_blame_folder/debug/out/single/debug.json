@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_splash_bg.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxhdpi/splash_bg.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_gradient_drawable.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/gradient_drawable.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xhdpi_elas_logo_with_tagline.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xhdpi/elas_logo_with_tagline.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-mdpi_elas_logo_with_tagline.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-mdpi/elas_logo_with_tagline.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_back_icon.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_back_icon.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_fragment_photo_detail.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/fragment_photo_detail.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_elas_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxhdpi/elas_logo.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/font_roboto_bold.ttf.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-hdpi_elas_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-hdpi/elas_logo.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xhdpi_splash_bg.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xhdpi/splash_bg.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_elas_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxxhdpi/elas_logo.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_search_bar_circular_shape.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/search_bar_circular_shape.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xhdpi_elas_logo_ldpi.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xhdpi/elas_logo_ldpi.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_circular_background_bottom.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/circular_background_bottom.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_tab_selected.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/tab_selected.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_tab_oval_backgound.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/tab_oval_backgound.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_heart_icon_unfilled.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_heart_icon_unfilled.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_tab_selector_bg.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/tab_selector_bg.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/font_roboto_medium.ttf.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-ldpi_elas_logo_ldpi.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-ldpi/elas_logo_ldpi.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/navigation_default_nav_graph.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/navigation/default_nav_graph.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-ldpi_elas_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-ldpi/elas_logo.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_tab_indicator_unselected.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/tab_indicator_unselected.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-ldpi_splash_bg.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-ldpi/splash_bg.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_fragment_my_collection.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/fragment_my_collection.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-hdpi_splash_bg.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-hdpi/splash_bg.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_filter_icon_white.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_filter_icon_white.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-hdpi_elas_logo_with_tagline.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-hdpi/elas_logo_with_tagline.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_grid_icon.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_grid_icon.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_fragment_curated_photos_list.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/fragment_curated_photos_list.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_dummy_image.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/dummy_image.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_custom_image_dialog.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/custom_image_dialog.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_search_icon.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_search_icon.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-mdpi_elas_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-mdpi/elas_logo.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_airlift_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxxhdpi/airlift_logo.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_brink_2.jpg.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/brink_2.jpg"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_placeholder.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/placeholder.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-mdpi_splash_bg.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-mdpi/splash_bg.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/font_roboto_thin.ttf.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/font/roboto_thin.ttf"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_holder_clothing_item_grid_view.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/holder_clothing_item_grid_view.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_layout_error.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/layout_error.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_splash_bg.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxxhdpi/splash_bg.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_gradient_bg.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-hdpi_elas_logo_ldpi.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-hdpi/elas_logo_ldpi.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_holder_curated_photo_item.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/holder_curated_photo_item.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_elas_logo_with_tagline.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxxhdpi/elas_logo_with_tagline.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_elas_logo_with_tagline.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxhdpi/elas_logo_with_tagline.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_elas_logo_ldpi.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxxhdpi/elas_logo_ldpi.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_format_list_bulleted_24.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_heart_icon_filled.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_heart_icon_filled.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_images_pager_tab_indicator.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/images_pager_tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_splash_background.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_ic_list_icon.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/ic_list_icon.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-mdpi_elas_logo_ldpi.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-mdpi/elas_logo_ldpi.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable_tab_indicator_selected.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable/tab_indicator_selected.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/font_roboto_regular.ttf.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/layout_fragment_splash.xml.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_elas_logo_ldpi.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xxhdpi/elas_logo_ldpi.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-ldpi_elas_logo_with_tagline.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-ldpi/elas_logo_with_tagline.png"
+    },
+    {
+        "merged": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/build/intermediates/res/merged/debug/drawable-xhdpi_elas_logo.png.flat",
+        "source": "/Users/hashir/AndroidStudioProjects/Airlift- Gallery app/app/src/main/res/drawable-xhdpi/elas_logo.png"
+    }
+]

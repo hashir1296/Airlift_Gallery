@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                            
+                                                                                       
+           
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true" android:tag="layout/fragment_photo_detail_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/pure_black">
+
+
+            <ImageView
+                android:id="@+id/ivPhoto"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                android:tag="binding_1"                  
+                android:scaleType="centerCrop"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@drawable/dummy_image" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tvDimensionsLabel"
+                style="@style/roboto_bold_16sp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_15sdp"
+                android:text="@string/dimensions"
+                android:textColor="@color/white"
+                app:layout_constraintEnd_toStartOf="@id/tvDimensions"
+                app:layout_constraintHorizontal_chainStyle="spread"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/ivPhoto" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tvDimensions"
+                style="@style/roboto_medium_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:tag="binding_2"                
+                android:textColor="@color/white"
+                app:layout_constraintBottom_toBottomOf="@id/tvDimensionsLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/tvDimensionsLabel"
+                app:layout_constraintTop_toTopOf="@id/tvDimensionsLabel"
+                tools:text="200 * 300" />
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tvAvgColorLabel"
+                style="@style/roboto_medium_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:text="@string/average_color"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="@id/tvDimensionsLabel"
+                app:layout_constraintTop_toBottomOf="@id/tvDimensionsLabel" />
+
+
+            <ImageView
+                android:id="@+id/ivAvgColor"
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:background="@color/red"
+                android:tag="binding_3"                    
+                app:layout_constraintBottom_toBottomOf="@id/tvAvgColorLabel"
+                app:layout_constraintStart_toStartOf="@id/tvDimensions"
+                app:layout_constraintTop_toTopOf="@id/tvAvgColorLabel" />
+
+            <View
+                android:id="@+id/divider1"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_1sdp"
+                android:layout_marginHorizontal="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:background="@drawable/gradient_bg"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvAvgColorLabel" />
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tvPhotographerLabel"
+                style="@style/roboto_bold_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_15sdp"
+                android:ellipsize="end"
+                android:text="@string/photographer"
+                android:textColor="@color/white"
+                app:layout_constrainedWidth="true"
+                app:layout_constraintEnd_toStartOf="@id/tvDimensions"
+                app:layout_constraintHorizontal_bias="0"
+                app:layout_constraintHorizontal_chainStyle="spread"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/divider1" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tvPhotographerName"
+                style="@style/roboto_medium_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:ellipsize="end"
+                android:tag="binding_4"                 
+                android:textAlignment="textEnd"
+                android:textColor="@color/white"
+                app:layout_constrainedWidth="true"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1"
+                app:layout_constraintStart_toEndOf="@id/tvPhotographerLabel"
+                app:layout_constraintTop_toTopOf="@id/tvPhotographerLabel" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+         
