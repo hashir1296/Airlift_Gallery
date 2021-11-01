@@ -12,4 +12,5 @@
     <string name="save">Save</string>
     <string name="delete">Delete</string>
     <string name="nothing_here">Nothing here</string>
+    <string name="nothing_here_to_do">Nothing here to do</string>
 </resources>
