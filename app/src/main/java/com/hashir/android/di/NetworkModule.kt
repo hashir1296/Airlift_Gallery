@@ -1,12 +1,12 @@
 package com.hashir.android.di
 
 import android.content.Context
+import com.facebook.stetho.okhttp3.StethoInterceptor
 import com.hashir.android.BuildConfig
-import com.hashir.android.network.ConnectivityInterceptor
 import com.hashir.android.network.ApiInterface
+import com.hashir.android.network.ConnectivityInterceptor
 import com.hashir.android.network.headersInterceptor
 import com.hashir.android.util.Constants
-import com.facebook.stetho.okhttp3.StethoInterceptor
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
@@ -66,7 +66,7 @@ object NetworkModule {
 
     @Singleton
     @Provides
-    fun provideAirliftService(retrofit: Retrofit.Builder): AirliftApi {
+    fun provideAirliftService(retrofit: Retrofit.Builder): ApiInterface {
         return retrofit
             .build()
             .create(ApiInterface::class.java)
