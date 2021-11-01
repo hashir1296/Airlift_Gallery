@@ -7,9 +7,9 @@
 
         <variable
             name="viewModel"
-            type="com.airlift.android.modules.home.viewmodel.HomeViewModel" />
+            type="com.hashir.android.modules.home.viewmodel.HomeViewModel" />
 
-        <import type="com.airlift.android.network.NetworkResult" />
+        <import type="com.hashir.android.network.NetworkResult" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

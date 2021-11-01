@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.airlift.android.modules.detail.viewmodel.PhotoDetailViewModel" />
+            type="com.hashir.android.modules.detail.viewmodel.PhotoDetailViewModel" />
     </data>
 
     <ScrollView

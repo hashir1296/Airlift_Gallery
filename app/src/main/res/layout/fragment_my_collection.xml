@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.airlift.android.modules.myCollection.viewmodel.MyCollectionListViewModel" />
+            type="com.hashir.android.modules.myCollection.viewmodel.MyCollectionListViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -1,16 +1,7 @@
 <resources>
-    <string name="app_name" translatable="false">Airlift Gallery</string>
-    <string name="search">Search</string>
-    <string name="design_code">Design Code : </string>
-    <string name="fabric">Fabric :</string>
-    <string name="piece">Piece :</string>
-    <string name="exchange">Exchange :</string>
-    <string name="view">View</string>
+    <string name="app_name" translatable="false">Sample Gallery App</string>
     <string name="something_went_wrong">Something went wrong</string>
     <string name="no_internet_connection">No internet connection</string>
-    <string name="color">Color</string>
-    <string name="details">Details</string>
-    <string name="rs">Rs </string>
     <string name="curated_picks">Curated Picks</string>
     <string name="my_collections">My Collections</string>
     <string name="saved">Saved</string>

@@ -2,12 +2,11 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/home_nav_graph"
     app:startDestination="@id/homeFragment">
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.airlift.android.modules.splash.view.SplashFragment"
+        android:name="com.hashir.android.modules.splash.view.SplashFragment"
         android:label="SplashFragment"
         tools:layout="@layout/fragment_splash">
         <action
@@ -17,7 +16,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.airlift.android.modules.home.view.HomeFragment"
+        android:name="com.hashir.android.modules.home.view.HomeFragment"
         android:label="HomeFragment"
         tools:layout="@layout/fragment_home">
         <action
@@ -32,7 +31,7 @@
 
     <fragment
         android:id="@+id/curatedPhotosListFragment"
-        android:name="com.airlift.android.modules.curatedList.view.CuratedPhotosListFragment"
+        android:name="com.hashir.android.modules.curatedList.view.CuratedPhotosListFragment"
         android:label="CuratedPhotosListFragment"
         tools:layout="@layout/fragment_curated_photos_list">
 
@@ -43,7 +42,7 @@
 
     <fragment
         android:id="@+id/clothingDetailFragment"
-        android:name="com.airlift.android.modules.myCollection.view.MyCollectionFragment"
+        android:name="com.hashir.android.modules.myCollection.view.MyCollectionFragment"
         android:label="ClothingDetailFragment">
 
         <argument
@@ -58,7 +57,7 @@
     </fragment>
     <fragment
         android:id="@+id/photoDetailFragment"
-        android:name="com.airlift.android.modules.detail.view.PhotoDetailFragment"
+        android:name="com.hashir.android.modules.detail.view.PhotoDetailFragment"
         android:label="PhotoDetailFragment">
         <argument
             android:name="id"
